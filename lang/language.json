@@ -1,0 +1,18 @@
+{
+  "contactSection": {
+    "en": {
+      "last_name": "${lastName}",
+      "first_name": "${firstName}",
+      "phone": "${phone}",
+      "description": "We are displaying in english",
+      "full_name": "Mr. ${firstName} ${lastName}"
+    },
+    "fr": {
+      "last_name": "${lastName}",
+      "first_name": "${firstName}",
+      "phone": "${phone}",
+      "description": "We are displaying in French",
+      "full_name": "mr. ${lastName} ${firstName}"
+    }
+  }
+}
